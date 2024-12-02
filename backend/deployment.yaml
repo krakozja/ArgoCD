@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: krakozja/backend:latest
+        image: krakozja/backend:RC-7.b263db5
         ports:
         - containerPort: 5001
