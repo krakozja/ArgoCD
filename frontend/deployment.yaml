@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: krakozja/frontend:latest
+        image: krakozja/frontend:RC-6.5ec7b16
         ports:
         - containerPort: 5000
         env:
